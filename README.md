@@ -1,8 +1,8 @@
 ## 🔗 Live Preview
 
-[View the landing page - Homepage](https://fillia911.github.io/product-landing-template-01/)  
-[View the landing page - Blog](https://fillia911.github.io/product-landing-template-01/blog.html)  
-[View the landing page - Blog Post](https://fillia911.github.io/product-landing-template-01/post.html)
+[View the landing page - Homepage](https://fillia911.github.io/product-landing-template-02/)  
+[View the landing page - Blog](https://fillia911.github.io/product-landing-template-02/blog.html)  
+[View the landing page - Blog Post](https://fillia911.github.io/product-landing-template-02/post.html)
 
 ---
 
